@@ -1,5 +1,8 @@
 # 🔐 The Password Game - Ultimate Edition
 
+<img width="927" height="689" alt="image" src="https://github.com/user-attachments/assets/21dea39c-ca53-4dc4-871d-117b3b6727f9" />
+
+
 An interactive web game that challenges users to create increasingly complex passwords by satisfying a series of **50 progressively difficult rules**. This extreme version pushes the boundaries of password complexity, creating an engaging and educational experience about password requirements while providing hours of challenging entertainment.
 
 ## 🎮 Live Demo
@@ -90,12 +93,12 @@ An interactive web game that challenges users to create increasingly complex pas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-game.git
+gitclone https://github.com/vaibhavdhonde01/The-Password-Game-.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd password-game
+cd The-Password-Game
 ```
 
 3. Open `index.html` in your web browser:
