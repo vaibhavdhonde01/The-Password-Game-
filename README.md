@@ -300,7 +300,7 @@ Can you create a password that satisfies all 50 rules AND is exactly 500 charact
 
 ---
 
-**Made with ❤️ and excessive password requirements by [Vaibhav Dhonde](https://github.com/vaibhavdhonde01)**
+**Made by [Vaibhav Dhonde](https://github.com/vaibhavdhonde01)**
 
 **⭐ Star this repo if you survived the challenge!**
 
