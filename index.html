@@ -754,7 +754,9 @@
                 }
 
                 ruleElement.innerHTML = ruleContent;
-                this.rulesContainer.appendChild(ruleElement);
+                
+                // Insert new rule at the top instead of bottom
+                this.rulesContainer.insertBefore(ruleElement, this.rulesContainer.firstChild);
                 
                 // Trigger recheck
                 setTimeout(() => {
